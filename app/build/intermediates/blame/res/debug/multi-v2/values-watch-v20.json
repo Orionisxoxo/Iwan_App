@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

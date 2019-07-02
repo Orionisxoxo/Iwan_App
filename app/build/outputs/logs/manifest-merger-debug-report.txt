@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/upaid/.gradle/caches/transforms-2/files-2.1/4952236a5ce696e223e7baf2d067ee90/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/814a9db981f0108e4a418cbf0aec31d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/c61bb9f8661bcc8d2662073a1b83db02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/859f76f27528d2cb05cbaca5f927dd84/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/18d48fd7c8ad255278e2c3cb6430f3c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/47c148ff6780e7e6cac11c3d5e27ad76/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/0cf2f4227cbc98c5dde37f603926e2fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b99486c5a604e127dfb2d7701d3a305a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b4359279f6b6bd7d122128c7cdaf4471/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f9cd33bbdb3079646a080e3887088f69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e4c163783c75d6135a26b48e2715d4e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/82c6bec27cbb0e54f73d2e7f401f10a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/84e226b83fb4ee26cb78f4ca23f3799d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/577a2ec7cf3257e3a47f288ed15f4760/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/687694d93f2ba1e76c094ffea511b683/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/7779955faac9969345b90312aa2148ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/d7f9d251bc8a3e6da485960cff8695d5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/665cd4e9d38f54a8c303f28918a0e7cc/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/9cd5d624a75b26cb7bf8b906e6659890/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/63a2303c2dd0af245a5eb4446bb80130/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/82b06cdbc2b3e07b907ba78ddc1db6ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/3755d51f22ae8bfcdf48bf3611dff637/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b24ce745db788b9a4da2404fb108b252/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/4fbe2284b038fc8235d3d5afd464dd96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/62b985fe819b00647967a3fca08428d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/2274334eaa53e16c34ffb28f81952ab5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e1aa223b6a24b2f16fda797ef7cb74ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/90d936191618eaf9eace08838458af35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e2f17797964e8e04699a3c3b5dcb1b66/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/upaid/.gradle/caches/transforms-2/files-2.1/4952236a5ce696e223e7baf2d067ee90/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/upaid/.gradle/caches/transforms-2/files-2.1/4952236a5ce696e223e7baf2d067ee90/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/d7f9d251bc8a3e6da485960cff8695d5/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/d7f9d251bc8a3e6da485960cff8695d5/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/665cd4e9d38f54a8c303f28918a0e7cc/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/665cd4e9d38f54a8c303f28918a0e7cc/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/d7f9d251bc8a3e6da485960cff8695d5/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.iwan_app.Main2Activity
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:12:9-14:68
+	android:theme
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:13:13-42
+activity#com.example.iwan_app.MainActivity
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/upaid/.gradle/caches/transforms-2/files-2.1/4952236a5ce696e223e7baf2d067ee90/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/upaid/.gradle/caches/transforms-2/files-2.1/4952236a5ce696e223e7baf2d067ee90/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/814a9db981f0108e4a418cbf0aec31d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/814a9db981f0108e4a418cbf0aec31d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/c61bb9f8661bcc8d2662073a1b83db02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/c61bb9f8661bcc8d2662073a1b83db02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/859f76f27528d2cb05cbaca5f927dd84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/859f76f27528d2cb05cbaca5f927dd84/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/18d48fd7c8ad255278e2c3cb6430f3c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/18d48fd7c8ad255278e2c3cb6430f3c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/47c148ff6780e7e6cac11c3d5e27ad76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/47c148ff6780e7e6cac11c3d5e27ad76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/0cf2f4227cbc98c5dde37f603926e2fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/0cf2f4227cbc98c5dde37f603926e2fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b99486c5a604e127dfb2d7701d3a305a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b99486c5a604e127dfb2d7701d3a305a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b4359279f6b6bd7d122128c7cdaf4471/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b4359279f6b6bd7d122128c7cdaf4471/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f9cd33bbdb3079646a080e3887088f69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f9cd33bbdb3079646a080e3887088f69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e4c163783c75d6135a26b48e2715d4e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e4c163783c75d6135a26b48e2715d4e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/82c6bec27cbb0e54f73d2e7f401f10a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/82c6bec27cbb0e54f73d2e7f401f10a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/84e226b83fb4ee26cb78f4ca23f3799d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/84e226b83fb4ee26cb78f4ca23f3799d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/577a2ec7cf3257e3a47f288ed15f4760/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/577a2ec7cf3257e3a47f288ed15f4760/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/687694d93f2ba1e76c094ffea511b683/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/687694d93f2ba1e76c094ffea511b683/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/7779955faac9969345b90312aa2148ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/7779955faac9969345b90312aa2148ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/d7f9d251bc8a3e6da485960cff8695d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/upaid/.gradle/caches/transforms-2/files-2.1/d7f9d251bc8a3e6da485960cff8695d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/665cd4e9d38f54a8c303f28918a0e7cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/665cd4e9d38f54a8c303f28918a0e7cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/9cd5d624a75b26cb7bf8b906e6659890/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/9cd5d624a75b26cb7bf8b906e6659890/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/63a2303c2dd0af245a5eb4446bb80130/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/63a2303c2dd0af245a5eb4446bb80130/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/82b06cdbc2b3e07b907ba78ddc1db6ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/82b06cdbc2b3e07b907ba78ddc1db6ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/3755d51f22ae8bfcdf48bf3611dff637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/3755d51f22ae8bfcdf48bf3611dff637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b24ce745db788b9a4da2404fb108b252/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/b24ce745db788b9a4da2404fb108b252/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/4fbe2284b038fc8235d3d5afd464dd96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/4fbe2284b038fc8235d3d5afd464dd96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/62b985fe819b00647967a3fca08428d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/62b985fe819b00647967a3fca08428d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/2274334eaa53e16c34ffb28f81952ab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/2274334eaa53e16c34ffb28f81952ab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e1aa223b6a24b2f16fda797ef7cb74ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e1aa223b6a24b2f16fda797ef7cb74ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/90d936191618eaf9eace08838458af35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/90d936191618eaf9eace08838458af35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e2f17797964e8e04699a3c3b5dcb1b66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e2f17797964e8e04699a3c3b5dcb1b66/AndroidManifest.xml:20:5-44
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml

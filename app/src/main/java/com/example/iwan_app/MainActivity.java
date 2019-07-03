@@ -1,23 +1,27 @@
 package com.example.iwan_app;
 
-import android.content.Intent;
+import android.content.Context;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.CheckBox;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
+import com.example.iwan_app.Specifics.PatientSpecifics;
+import com.example.iwan_app.Specifics.TechnicianSpecifics;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button userLogin = findViewById(R.id.button);
-    String userNickname = findViewById(R.id.nickname).toString();
-    String userPassword = findViewById(R.id.password).toString();
+    DoctorSpecifics doctorSpecifics;
+    PatientSpecifics patientSpecifics;
+    TechnicianSpecifics technicianSpecifics;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -58,29 +62,47 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public void authenticateUser(View view) {
+    public void loginUserWithButton(View view, final Context context) {
+        Button userLogin = findViewById(R.id.button);
         userLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(validate()) {
-                    Intent intent = new Intent(MainActivity.this, MainActivity.class);
-                    startActivity(intent);
+                if(validateIfLoginAndPasswordIsEmpty()) {
+                    goToCheckedView(context);
                 } else {
-
+                    Log.e("", "Cannot authenticate user.");
                 }
             }
         });
 
     }
 
-    public boolean validate() {
+    public boolean validateIfLoginAndPasswordIsEmpty() {
+        String userNickname = findViewById(R.id.nickname).toString();
+        String userPassword = findViewById(R.id.password).toString();
         boolean isValid = true;
 
         if(userNickname.isEmpty() || userPassword.isEmpty()) {
             isValid = false;
         }
-
         return isValid;
     }
 
+    public void goToCheckedView(Context context) {
+        CheckBox patientStart = findViewById(R.id.patientCheck);
+        CheckBox technicianStart = findViewById(R.id.technicianCheck);
+        CheckBox doctorStart = findViewById(R.id.doctorCheck);
+
+        if(patientStart.isChecked()) {
+            patientSpecifics.openCheckedView(context);
+        } if(technicianStart.isChecked()) {
+            technicianSpecifics.openCheckedView(context);
+        } if(doctorStart.isChecked()) {
+
+        }
+    }
+
+    public void validateCheckBox() {
+
+    }
 }

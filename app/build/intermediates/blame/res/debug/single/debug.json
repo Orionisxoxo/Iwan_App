@@ -56,12 +56,12 @@
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-v21_avd_show_password.xml.flat",
@@ -74,6 +74,10 @@
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout_content_doctor_view.xml.flat",
+        "source": "/home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/res/layout/content_doctor_view.xml"
     },
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
@@ -296,6 +300,10 @@
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout_activity_patient_view.xml.flat",
+        "source": "/home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/res/layout/activity_patient_view.xml"
+    },
+    {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/d7f9d251bc8a3e6da485960cff8695d5/res/layout/notification_template_icon_group.xml"
     },
@@ -326,6 +334,10 @@
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout_content_patient_view.xml.flat",
+        "source": "/home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/res/layout/content_patient_view.xml"
     },
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -496,12 +508,12 @@
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
@@ -786,6 +798,10 @@
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout_activity_technician_view.xml.flat",
+        "source": "/home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/res/layout/activity_technician_view.xml"
     },
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
@@ -1556,6 +1572,10 @@
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout_content_technician_view.xml.flat",
+        "source": "/home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/res/layout/content_technician_view.xml"
+    },
+    {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/res/drawable-xxxhdpi-v4/design_ic_visibility.png"
     },
@@ -1762,6 +1782,10 @@
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "/home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/layout_activity_doctor_view.xml.flat",
+        "source": "/home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/res/layout/activity_doctor_view.xml"
     },
     {
         "merged": "/home/upaid/AndroidStudioProjects/Iwan_App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",

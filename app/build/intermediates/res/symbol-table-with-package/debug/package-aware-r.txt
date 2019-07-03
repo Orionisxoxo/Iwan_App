@@ -1087,6 +1087,7 @@ id design_navigation_view
 id dimensions
 id direct
 id disableHome
+id doctorCheck
 id edit_query
 id end
 id enterAlways
@@ -1145,6 +1146,7 @@ id parent
 id parentPanel
 id parent_matrix
 id password
+id patientCheck
 id percent
 id pin
 id progress_circular
@@ -1199,6 +1201,7 @@ id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id technicianCheck
 id text
 id text2
 id textSpacerNoButtons
@@ -1277,10 +1280,16 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_doctor_view
 layout activity_main
 layout activity_main2
+layout activity_patient_view
+layout activity_technician_view
+layout content_doctor_view
 layout content_main
 layout content_main2
+layout content_patient_view
+layout content_technician_view
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1366,7 +1375,10 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string title_activity_doctor_view
 string title_activity_main2
+string title_activity_patient_view
+string title_activity_technician_view
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

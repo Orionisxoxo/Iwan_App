@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [com.google.android.material:material:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/upaid/.gradle/caches/transforms-2/files-2.1/60f988d773d90350662fd1a114f2a0c9/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/upaid/.gradle/caches/transforms-2/files-2.1/4952236a5ce696e223e7baf2d067ee90/AndroidManifest.xml:2:1-11:12
@@ -35,25 +35,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/upaid/.gradle/cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e1aa223b6a24b2f16fda797ef7cb74ac/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/90d936191618eaf9eace08838458af35/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/e2f17797964e8e04699a3c3b5dcb1b66/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
 		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:5:5-25:19
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:5:5-37:19
 MERGED from [com.google.android.material:material:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /home/upaid/.gradle/caches/transforms-2/files-2.1/f0ac8385a130a1772c1ef2ba9f982415/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/upaid/.gradle/caches/transforms-2/files-2.1/4952236a5ce696e223e7baf2d067ee90/AndroidManifest.xml:9:5-20
@@ -76,30 +76,54 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/upaid
 		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.iwan_app.Main2Activity
-ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:12:9-14:68
-	android:theme
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:14:13-56
-	android:name
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:13:13-42
-activity#com.example.iwan_app.MainActivity
-ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:15:9-24:20
+activity#com.example.iwan_app.TechnicianView
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:12:9-15:68
 	android:label
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:17:13-45
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:14:13-67
 	android:theme
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:18:13-56
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:13:13-43
+activity#com.example.iwan_app.PatientView
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:16:9-19:59
+	android:label
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:18:13-64
+	android:theme
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:17:13-40
+activity#com.example.iwan_app.DoctorView
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:20:9-23:59
+	android:label
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:22:13-63
+	android:theme
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:21:13-39
+activity#com.example.iwan_app.Main2Activity
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:24:9-26:59
+	android:theme
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:25:13-42
+activity#com.example.iwan_app.MainActivity
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:28:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:22:17-77
+ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml:34:27-74
 uses-sdk
 INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/upaid/AndroidStudioProjects/Iwan_App/app/src/main/AndroidManifest.xml
